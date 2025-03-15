@@ -48,5 +48,5 @@ A RESTful API built with **Express.js**, **TypeScript**, and **MongoDB** for man
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/NathanPhilipB/21BCE8065OnlyClick.git
+   cd 21BCE8065OnlyClick
